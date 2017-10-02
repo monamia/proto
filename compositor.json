@@ -89,15 +89,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/monamia/proto",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "Megazone",
       "subhead": "Subhead for this megazone brand",
@@ -122,20 +113,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<p>Adding content</p>\n"
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/monamia/proto",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/monamia",
-          "text": "monamia"
-        }
-      ]
+      "html": "\n"
     }
   ]
 }
